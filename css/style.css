@@ -9,7 +9,6 @@ html{
     scroll-behavior: smooth;
 }
 
-/* #main {} */
 /* common */
 
 .text-white{
@@ -190,10 +189,7 @@ html{
     position: absolute;
     bottom: 47px;
     color: #fff;
-    /* right:0; left: 0; */
     width: 100%;
-    /* left: 50%;
-    transform: translateX(-50%); */
     text-align: center;
 }
 
@@ -242,7 +238,6 @@ html{
 
 #content .member-list{
     margin-top: 16px;
-    /* overflow: hidden; */
 }
 
 #content .member-name{
@@ -254,6 +249,7 @@ html{
     width: 154px;
     border-radius: 4px;
 }
+
 /* tour section */
 .tour-section{
     background-color: #000;
@@ -292,9 +288,6 @@ html{
 
 .place-list{
     margin-top: 32px;
-    /* margin-bottom: 48px; */
-    /* padding-bottom: 32px; */
-    /* display: table; */
 }
 
 .place-img{
